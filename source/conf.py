@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Thermal and Fluids Engineering: Theoretical Pills'
-copyright = '2025, Mondragon Goi Eskola Politeknikoa (MGEP), TEFLU'
+copyright = '2025-26, Mondragon Goi Eskola Politeknikoa (MGEP), TEFLU'
 author = 'TEFLU'
 
 # conf.py
